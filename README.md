@@ -5,8 +5,8 @@
 <p align="left">
 <a href="https://instagram.com/kwidaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kwidaniel" height="30" width="40" /></a>
 </p>
-<p>
-  <img width="240" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif">
+<p align="center">
+  <img width="500" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
