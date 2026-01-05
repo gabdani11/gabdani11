@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1>Daniel</h1>
+
+`Full-stack dev / 60% Designer / 40% Engineer`
+
+<p>I am a Gen Z Full Stack Developer on a mission to bridge the gap between heavy engineering and high-end design.
+
+I don't just write code; I craft digital experiences. My focus is on building "glamorous," modern applications that are aesthetically immersive but grounded in robust, real-world logic. I believe a website should be more than a showcase—it should be a scalable solution that solves actual problems.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
