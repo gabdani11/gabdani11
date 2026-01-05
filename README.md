@@ -4,7 +4,7 @@
 
 <p>I am a Gen Z Full Stack Developer on a mission to bridge the gap between heavy engineering and high-end design.
 
-I don't just write code; I craft digital experiences. My focus is on building "glamorous," modern applications that are aesthetically immersive but grounded in robust, real-world logic. I believe a website should be more than a showcase—it should be a scalable solution that solves actual problems.</p>
+Hello, I welcome you to my *GitHub space*. I build websites that make the internet worth scrolling through. I craft digital experiences. My focus is on building glamorous, modern applications that are aesthetically immersive but grounded in robust, real-world logic, solving actual problems. `Always learning, always exploring.`</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
