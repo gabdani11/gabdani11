@@ -9,13 +9,13 @@ Hello, I welcome you to my *GitHub space*. I build websites that make the intern
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://github.com/gabdani11">
-  <img src="https://cdn.simpleicons.org/github/white" height="30"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="30"/>
 </a>&nbsp;
 <a href="https://instagram.com/kwidaniel" >
-  <img src="https://cdn.simpleicons.org/instagram/white" height="30"/>
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30"/>
 </a>&nbsp;
 <a href="https://x.com/daniel1ux" >
-  <img src="https://cdn.simpleicons.org/x/white" height="30"/>
+  <img src="https://cdn.simpleicons.org/x/ffffff" height="30"/>
 </a>&nbsp;
  
 </p>
