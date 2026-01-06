@@ -6,6 +6,19 @@
 
 Hello, I welcome you to my *GitHub space*. I build websites that make the internet worth scrolling through. I craft digital experiences. My focus is on building glamorous, modern applications that are aesthetically immersive but grounded in robust, real-world logic, solving actual problems. `Always learning, always exploring.`</p>
 
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://github.com/gabdani">
+  <img src="https://cdn.simpleicons.org/github/white" height="30"/>
+</a>&nbsp;
+<a href="https://instagram.com/kwidaniel" >
+  <img src="https://cdn.simpleicons.org/instagram/white" height="30"/>
+</a>&nbsp;
+<a href="https://x.com/daniel1ux" >
+  <img src="https://cdn.simpleicons.org/x/white" height="30"/>
+</a>&nbsp;
+ 
+</p>
 
 </br>
 </br>
@@ -14,10 +27,7 @@ Hello, I welcome you to my *GitHub space*. I build websites that make the intern
   <img src="./handgif.gif" width="1000" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kwidaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kwidaniel" height="30" width="40" /></a>
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
