@@ -8,7 +8,7 @@ Hello, I welcome you to my *GitHub space*. I build websites that make the intern
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://github.com/gabdani">
+<a href="https://github.com/gabdani11">
   <img src="https://cdn.simpleicons.org/github/white" height="30"/>
 </a>&nbsp;
 <a href="https://instagram.com/kwidaniel" >
