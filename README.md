@@ -11,7 +11,7 @@ Hello, I welcome you to my *GitHub space*. I build websites that make the intern
 </br>
 </br>
 <p align="center">
-  <img src="./handgif.gif" width="500" />
+  <img src="./handgif.gif" width="1000" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
