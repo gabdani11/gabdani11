@@ -24,7 +24,7 @@ Hello, I welcome you to my *GitHub space*. I build websites that make the intern
 </br>
 </br>
 <p align="center">
-  <img src="./handgif.gif" width="1000" />
+  <img src="./handgif.gif" width="500" />
 </p>
 
 
