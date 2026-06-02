@@ -1,6 +1,6 @@
 <h1>Daniel</h1>
 
-`Full-stack dev / 60% Designer / 40% Engineer`
+`Full-stack dev / GenAI / DevOps`
 
 <p>I am a Gen Z Full Stack Developer on a mission to bridge the gap between heavy engineering and high-end design.
 
