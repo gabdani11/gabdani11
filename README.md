@@ -20,7 +20,7 @@ Hello, I welcome you to my *GitHub space*. I build websites that make the intern
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="./handgif.gif" width="500" />
 </p>
 
