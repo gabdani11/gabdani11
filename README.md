@@ -37,14 +37,21 @@ Hello, I welcome you to my *GitHub space*. I build websites that make the intern
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</br>
+![LangChain](https://img.shields.io/badge/LangChain-1c1c1c?style=for-the-badge&logo=langchain&logoColor=87CEEB)
+![Redis](https://img.shields.io/badge/Redis-F05032?style=for-the-badge&logo=redis&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-FBFAF5?style=for-the-badge&logo=Redux&logoColor=purple)
+
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostMan](https://img.shields.io/badge/PostMan-white?style=for-the-badge&logo=postman)
 
 
 
