@@ -52,6 +52,8 @@ Hello, I welcome you to my *GitHub space*. I build Web Application that make the
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PostMan](https://img.shields.io/badge/PostMan-white?style=for-the-badge&logo=postman)
+![PostMan](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma)
+
 
 
 
