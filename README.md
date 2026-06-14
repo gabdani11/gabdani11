@@ -15,7 +15,7 @@ Hello, I welcome you to my *GitHub space*. I build Web Application that make the
   <a href="https://instagram.com/kwidaniel">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30"/>
   </a>&nbsp;
-  <a href="https://x.com/daniel1ux">
+  <a href="https://x.com/devdaniis">
     <img src="https://cdn.simpleicons.org/x/ffffff" height="30"/>
   </a>
 </p>
