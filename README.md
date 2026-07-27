@@ -41,6 +41,7 @@ Hello, I welcome you to my *GitHub space*. I build Web Application that make the
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Lenis](https://img.shields.io/badge/LENIS-f7939e?style=for-the-badge&logo=lenis&logoColor=white)
 </br>
 ![LangChain](https://img.shields.io/badge/LangChain-1c1c1c?style=for-the-badge&logo=langchain&logoColor=87CEEB)
 ![Redis](https://img.shields.io/badge/Redis-F05032?style=for-the-badge&logo=redis&logoColor=white)
